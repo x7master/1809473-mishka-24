@@ -1,7 +1,7 @@
 # Личный проект «Мишка» 
 
 * Студент: [Константин Санков](https://up.htmlacademy.ru/adaptive/24/user/1809473).
-* Наставник: `Неизвестно`.
+* Наставник: [Артур Трифонов](https://htmlacademy.ru/profile/wrgraff).
 
 ---
 
