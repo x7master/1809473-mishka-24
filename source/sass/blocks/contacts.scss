@@ -1,0 +1,20 @@
+.contacts__title {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  color: $black;
+}
+
+.contacts__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.contacts__link {
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  color: $grey;
+}

@@ -1,0 +1,9 @@
+.form-colors__title {
+  @include filter-title-style;
+}
+
+.form-colors__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}

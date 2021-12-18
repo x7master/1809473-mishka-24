@@ -1,0 +1,11 @@
+.page-header {
+  position: relative;
+}
+
+.page-header__logo {
+  display: flex;
+  justify-content: center;
+  padding: 22px 0;
+  border-top: 1px solid $light-grey;
+  border-bottom: 1px solid $light-grey;
+}

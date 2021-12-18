@@ -1,0 +1,18 @@
+.category-list__link {
+  text-decoration: none;
+
+  &--first {
+    background-color: $green;
+  }
+
+  &--second {
+    background-color: $darker-green;
+  }
+}
+
+.category-list__text {
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 24px;
+  color: $white;
+}

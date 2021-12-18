@@ -1,0 +1,14 @@
+@mixin filter-title-style($color: $green) {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 16px;
+  color: $color;
+}
+
+@mixin filter-main-text($color: $black) {
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 18px;
+  color: $color;
+}

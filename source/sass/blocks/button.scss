@@ -1,0 +1,14 @@
+.button {
+  text-transform: uppercase;
+  font-weight: 700;
+
+  &--ghost {
+    color: $grey;
+    background-color: transparent;
+  }
+
+  &--green {
+    color: $white;
+    background-color: $green;
+  }
+}

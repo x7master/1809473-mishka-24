@@ -1,0 +1,37 @@
+.featured__title {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  color: $black;
+}
+
+.featured__promo {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 20px;
+  color: $green;
+}
+
+.featured__description {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: $grey;
+}
+
+.featured__specification {
+  list-style: none;
+}
+
+.featured__price {
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 24px;
+  color: $grey;
+}
+
+.featured__order-button {
+  font-size: 18px;
+  line-height: 20px;
+}

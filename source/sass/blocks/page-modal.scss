@@ -1,0 +1,31 @@
+.page-modal__title {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  color: $black;
+}
+
+.page-modal__text {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 30px;
+  color: $grey;
+}
+
+.page-modal__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.page-modal__label {
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 16px;
+  color: $grey;
+}
+
+.page-modal__button {
+  font-size: 17px;
+  line-height: 16px;
+}
