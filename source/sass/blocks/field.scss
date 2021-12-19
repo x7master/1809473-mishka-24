@@ -1,0 +1,26 @@
+.field__title {
+  @include filter-main-text;
+}
+
+.field__input {
+  font: inherit;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 18px;
+  color: $primary-text;
+
+  &--phone {
+    background-image: url("../img/phone.svg");
+    background-repeat: no-repeat;
+  }
+
+  &--email {
+    background-image: url("../img/mail.svg");
+    background-repeat: no-repeat;
+  }
+}
+
+.field__input::placeholder {
+  color: $primary-heading;
+  opacity: 0.3;
+}

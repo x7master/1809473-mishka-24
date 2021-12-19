@@ -1,0 +1,14 @@
+.button {
+  text-transform: uppercase;
+  font-weight: 700;
+
+  &--ghost {
+    color: $primary-text;
+    background-color: transparent;
+  }
+
+  &--green {
+    color: $secondary-heading;
+    background-color: $primary-accent;
+  }
+}

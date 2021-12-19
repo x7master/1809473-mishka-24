@@ -1,0 +1,18 @@
+.category-list__link {
+  text-decoration: none;
+
+  &--first {
+    background-color: $primary-accent;
+  }
+
+  &--second {
+    background-color: $secondary-accent;
+  }
+}
+
+.category-list__text {
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 24px;
+  color: $secondary-heading;
+}

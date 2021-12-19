@@ -1,0 +1,9 @@
+.form-types__title {
+  @include filter-title-style;
+}
+
+.form-types__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
