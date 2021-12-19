@@ -1,4 +1,4 @@
-@mixin filter-title-style($color: $green) {
+@mixin filter-title-style($color: $primary-accent) {
   text-transform: uppercase;
   font-weight: 700;
   font-size: 17px;
@@ -6,7 +6,7 @@
   color: $color;
 }
 
-@mixin filter-main-text($color: $black) {
+@mixin filter-main-text($color: $primary-heading) {
   font-weight: 700;
   font-size: 17px;
   line-height: 18px;

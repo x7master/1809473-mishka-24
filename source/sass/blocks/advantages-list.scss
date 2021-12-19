@@ -1,33 +1,28 @@
 .advantages-list__item {
   padding-top: 54px;
+  background-repeat: no-repeat;
 
   &--ecological {
-    background-image: url("../../img/icon-flower.svg");
-    background-repeat: no-repeat;
+    background-image: url("../img/icon-flower.svg");
   }
 
   &--profit {
-    background-image: url("../../img/icon-bill.svg");
-    background-repeat: no-repeat;
+    background-image: url("../img/icon-bill.svg");
   }
 
   &--likes {
-    background-image: url("../../img/icon-heart.svg");
-    background-repeat: no-repeat;
+    background-image: url("../img/icon-heart.svg");
   }
 
   &--hand-made {
-    background-image: url("../../img/icon-ball-of-thread.svg");
-    background-repeat: no-repeat;
+    background-image: url("../img/icon-ball-of-thread.svg");
   }
 
   &--native {
-    background-image: url("../../img/icon-rocket.svg");
-    background-repeat: no-repeat;
+    background-image: url("../img/icon-rocket.svg");
   }
 
   &--gift-box {
-    background-image: url("../../img/icon-gift-box.svg");
-    background-repeat: no-repeat;
+    background-image: url("../img/icon-gift-box.svg");
   }
 }

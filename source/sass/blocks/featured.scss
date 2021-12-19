@@ -2,7 +2,7 @@
   font-weight: 700;
   font-size: 25px;
   line-height: 30px;
-  color: $black;
+  color: $primary-heading;
 }
 
 .featured__promo {
@@ -10,14 +10,14 @@
   font-weight: 700;
   font-size: 17px;
   line-height: 20px;
-  color: $green;
+  color: $primary-accent;
 }
 
 .featured__description {
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
-  color: $grey;
+  color: $primary-text;
 }
 
 .featured__specification {
@@ -28,7 +28,7 @@
   font-weight: 700;
   font-size: 17px;
   line-height: 24px;
-  color: $grey;
+  color: $primary-text;
 }
 
 .featured__order-button {

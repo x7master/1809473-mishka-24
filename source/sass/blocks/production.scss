@@ -2,13 +2,13 @@
   font-weight: 700;
   font-size: 17px;
   line-height: 24px;
-  background-image: url("../../img/icon-camera.svg");
+  background-image: url("../img/icon-camera.svg");
   background-repeat: no-repeat;
 }
 
 .production__video-container {
-  background-color: $semi-grey;
-  background-image: url("../../img/video-mobile.jpg");
+  background-color: $background-color;
+  background-image: url("../img/video-mobile.jpg");
   background-repeat: no-repeat;
 }
 
@@ -16,7 +16,7 @@
   font-weight: 400;
   font-size: 13px;
   line-height: 24px;
-  color: $grey;
+  color: $primary-text;
 }
 
 .production__order-link {

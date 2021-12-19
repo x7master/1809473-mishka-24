@@ -3,12 +3,12 @@
   font-weight: 700;
 
   &--ghost {
-    color: $grey;
+    color: $primary-text;
     background-color: transparent;
   }
 
   &--green {
-    color: $white;
-    background-color: $green;
+    color: $secondary-heading;
+    background-color: $primary-accent;
   }
 }

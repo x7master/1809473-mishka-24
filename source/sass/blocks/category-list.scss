@@ -2,11 +2,11 @@
   text-decoration: none;
 
   &--first {
-    background-color: $green;
+    background-color: $primary-accent;
   }
 
   &--second {
-    background-color: $darker-green;
+    background-color: $secondary-accent;
   }
 }
 
@@ -14,5 +14,5 @@
   font-weight: 700;
   font-size: 19px;
   line-height: 24px;
-  color: $white;
+  color: $secondary-heading;
 }
